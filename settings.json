@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "eternaloak.aternos.me",
+    "port": 32322,
     "version": "",
     "try-creative": false
   },
